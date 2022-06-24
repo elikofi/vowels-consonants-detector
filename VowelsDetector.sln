@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsDetector", "VowelsDetector\VowelsDetector.csproj", "{0F3E2D6D-018C-4B91-A684-6444D2CE4EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3E2D6D-018C-4B91-A684-6444D2CE4EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3E2D6D-018C-4B91-A684-6444D2CE4EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3E2D6D-018C-4B91-A684-6444D2CE4EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3E2D6D-018C-4B91-A684-6444D2CE4EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733508FC-C3F4-479C-9539-85706E2C2827}
+	EndGlobalSection
+EndGlobal
